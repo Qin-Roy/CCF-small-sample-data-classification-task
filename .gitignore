@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 csv/
+img/
 csv_acc/
 __pycache__/
 data/
